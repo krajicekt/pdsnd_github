@@ -21,3 +21,4 @@ Additional resources utilized for the project:
 https://stackoverflow.com/questions/16154032/catch-keyerror-in-python
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
 https://www.python.org/downloads/
+https://stackoverflow.com/questions/52195877/how-can-i-fix-git-commit-error-waiting-for-your-editor-to-close-the-file-wi
