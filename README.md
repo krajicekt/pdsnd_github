@@ -7,7 +7,7 @@
 bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Statistics are calculated for 3 cities (Chicago, New York, Washington) based on user inputs into the program
 
 ### Files used
 Include the files used
