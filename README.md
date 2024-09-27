@@ -20,3 +20,4 @@ Primary technical resource utilized was the Udacity Programming for Data Science
 Additional resources utilized for the project:
 https://stackoverflow.com/questions/16154032/catch-keyerror-in-python
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+https://www.python.org/downloads/
