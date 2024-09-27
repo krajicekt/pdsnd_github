@@ -140,11 +140,9 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # display total travel time
-
     print("The total travel time was:", float(sum((df['Trip Duration']))))
 
     # display mean travel time
-
     print("The mean travel time was:", float(df['Trip Duration'].mean()))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -167,11 +165,8 @@ def user_stats(df):
     # Display earliest, most recent, and most common year of birth
 
 #        print("Subscriber birth year statistics:\n")
-        
         print("The oldest subscriber was born in:\n", int(df['Birth Year'].min()))
-        
         print("The youngest subscriber was born in:\n", int(df['Birth Year'].max()))
-        
         print("The most common birth year was:\n", int(df['Birth Year'].mode()[0]))
     except KeyError:
         
